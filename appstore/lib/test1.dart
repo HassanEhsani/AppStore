@@ -8,7 +8,7 @@ void main() {
         appBar: AppBar(
           backgroundColor: Colors.red,
           title: Text(
-            'فروشگاه',
+            'فروشگاه1',
             style: TextStyle(fontFamily: 'tit'),
           ),
         ),
