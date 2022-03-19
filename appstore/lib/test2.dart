@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
+ import 'class2.dart';
 
 void main() {
   runApp(
@@ -17,6 +18,7 @@ void main() {
         appBar: AppBar(
           title: Text('اپلیکیشن'),
         ),
+        body: MyWidget(),
       ),
     ),
   );
